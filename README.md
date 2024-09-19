@@ -1,4 +1,4 @@
-Kaggle dataset description matcher:
+Github Center for Kaggle Datasets for easy use with pandas
 
 issues.csv : https://www.kaggle.com/datasets/isaacwen/github-programming-languages-data?resource=download 
 
