@@ -1,3 +1,15 @@
+Ideas for cleaning:
+
+If no home or home city replace home and home city with None.
+
+*Don't read in the columns RefID, BaseID, Source, Factions, Class Details, Location, Level, Health, Magicka, Stamina, Sells, Buys, Perks, Horses and Race Details*
+
+Split primary skills to be only their first primary skill. Make this first primary skill have a column called First Skill. 
+
+Change morality to statistical values instead of categorical values
+
+
+
 People of Skyrim
 A dataset that contains information about Skyrim named NPCs
 
